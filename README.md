@@ -32,3 +32,7 @@ git remote set-url origin ssh://git@github.com/[username]/[repository-name].git	
 git log																View changes
 git log --summary													View changes (detailed)
 git diff [source branch] [target branch}							Preview changes before merging
+
+develop: add row 1
+develop: add row 2
+
