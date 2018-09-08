@@ -36,3 +36,4 @@ git diff [source branch] [target branch}							Preview changes before merging
 develop: add row 1
 develop: add row 2
 
+feature1: add row 1
