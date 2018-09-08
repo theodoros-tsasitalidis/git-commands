@@ -40,3 +40,5 @@ feature1: add row 1
 feature1: add row 2
 feature1: add row 3
 feature1: add row 4
+feature2: add row 1
+feature2: add row 2
